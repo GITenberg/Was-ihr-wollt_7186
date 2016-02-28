@@ -1,0 +1,48 @@
+_repo: Was-ihr-wollt_7186
+alternative_title: Twelfth Night. German
+contributor:
+  translator:
+    agent_name: Wieland, Christoph Martin
+    aliases:
+    - Wieland, C. M. (Christoph Martin)
+    - Viland, K. M. (Kristof Martin)
+    - Wieland, Cristoph Martin
+    - Wieland, Christian M. (Christian Martin)
+    - Viland, Kristof Martin
+    - Wieland, Christophorus Martinus
+    birthdate: 1733
+    deathdate: 1813
+    gutenberg_agent_id: '845'
+    url: http://www.gutenberg.org/2009/agents/845
+    wikipedia: http://en.wikipedia.org/wiki/Christoph_Martin_Wieland
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Translation of Twelfth Night
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7186'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwreck survival -- Drama'
+- !lcsh 'Brothers and sisters -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Twins -- Drama'
+- !lcsh 'Illyria -- Drama'
+- !lcc 'PR'
+- !lcsh 'Mistaken identity -- Drama'
+title: Was ihr wollt
+url: http://www.gutenberg.org/ebooks/7186
