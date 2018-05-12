@@ -1,4 +1,5 @@
 _repo: Was-ihr-wollt_7186
+_version: 0.1.0
 alternative_title: Twelfth Night. German
 contributor:
   translator:
@@ -15,6 +16,9 @@ contributor:
     gutenberg_agent_id: '845'
     url: http://www.gutenberg.org/2009/agents/845
     wikipedia: http://en.wikipedia.org/wiki/Christoph_Martin_Wieland
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -27,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: Translation of Twelfth Night
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7186#Was-ihr-wollt
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
